@@ -1,0 +1,79 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header-title {
+    text-align: center;
+    color: #004d4d;
+}
+
+.header-title img {
+    width: 150px;
+}
+
+.img-focaccia {
+    margin: 10px 0px;
+}
+
+.img-focaccia img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.focaccia-text {
+    text-align: center;
+    color: grey;
+}
+
+.header-title span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.header-title p {
+    background-color: #debf70;
+    padding: 10px;
+    border-top: 3px solid #e1a817;
+}
+
+.article-title h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.article {
+    width: 50%;
+    margin: auto;
+}
+
+.featured {
+    border-left: 2px solid #e1a817;
+}
+
+.featured p {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.featured a {
+    margin: 10px;
+    font-weight: bold;
+}
+
+.header-ingredients {
+    font-weight: bold;
+    text-underline-position: below
+}
+
+.section p {
+    font-weight: bold;
+}
+
+.ingredients-title {
+    padding: 1rem 0 0.625rem;
+    border-bottom: 2px solid aqua;
+}
